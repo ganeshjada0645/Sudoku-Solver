@@ -4,8 +4,11 @@ This C++ program solves a Sudoku puzzle using a backtracking algorithm. It takes
 Key Features:
 
 • Input: Accepts a 9x9 grid as input, representing the unsolved Sudoku puzzle. Empty cells are denoted by '*'.
+
 • Constraint Checking: Implements a function to check if a particular value is valid in a given cell based on Sudoku rules.
+
 • Backtracking: Utilizes a recursive backtracking algorithm to explore possible solutions and find the correct values for each cell.
+
 • Solution Display: Outputs the solved Sudoku grid to the console.
 
 
